@@ -1,0 +1,31 @@
+
+.ch_footer-infos {
+  display: flex;
+  justify-content: flex-start;
+  img, svg {
+    margin-bottom: 31px;
+    margin-top: 70px;
+    width: 121px;
+  }
+
+  p {
+    color: rgba(153, 153, 153, 1);
+    font-family: GILROY-LIGHT;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 14px;
+    margin-bottom: 16px;
+
+    span {
+      display: block;
+      line-height: 1.6;
+    }
+  }
+}
+
+.ch_footer-infos-Light {
+  p {
+    color: #666666;
+  }
+}
+
